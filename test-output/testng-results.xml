@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65854" started-at="2017-11-11T07:35:27Z" finished-at="2017-11-11T07:36:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65854" started-at="2017-11-11T07:35:27Z" finished-at="2017-11-11T07:36:33Z">
+      <class name="com.scp.practiceform.test.FormTest">
+        <test-method status="PASS" signature="fillToolsQAPracticeForm()[pri:0, instance:com.scp.practiceform.test.FormTest@cb5822]" name="fillToolsQAPracticeForm" duration-ms="65823" started-at="2017-11-11T13:05:27Z" finished-at="2017-11-11T13:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillToolsQAPracticeForm -->
+      </class> <!-- com.scp.practiceform.test.FormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
