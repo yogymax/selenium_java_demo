@@ -14,7 +14,7 @@ public class FormTest {
 @Test
   public void fillToolsQAPracticeForm() {
 	ToolsQAPracticeForm practiceFormPO = AppBrowserInitilzations.enterUrl(AppConstants.APPLICATION_URL);
-	practiceFormPO.enterYourName("YOgesh", "Chame");
+	practiceFormPO.enterYourName("AAAA", "BBB");
 	practiceFormPO.selectGender("Male");
 	practiceFormPO.selectExp("7");
 	practiceFormPO.selectExp(SkillSet.AUTOMATION,SkillSet.MANUALTESTER);
